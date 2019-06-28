@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "459435392019",
+    "firebase_url": "https://wechat-2b611.firebaseio.com",
+    "project_id": "wechat-2b611",
+    "storage_bucket": "wechat-2b611.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:459435392019:android:8bd2686abe4ea0ef",
+        "android_client_info": {
+          "package_name": "com.Bytecoders.startup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "459435392019-sals59g490p0bdbkfcdgli0fcscial8u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5NA5HB6gidLZ5MTBJjTeMJ3xUUpFQ_VA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "459435392019-sals59g490p0bdbkfcdgli0fcscial8u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:459435392019:android:3dde63a4ceb080e5",
+        "android_client_info": {
+          "package_name": "com.example.administrator.wechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "459435392019-rc14lsurjsan0ndalfe6sumqkdna5cqo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.administrator.wechat",
+            "certificate_hash": "458c2fd8e3d8cbd8bec26e97c7aad7a886f56aa3"
+          }
+        },
+        {
+          "client_id": "459435392019-sals59g490p0bdbkfcdgli0fcscial8u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5NA5HB6gidLZ5MTBJjTeMJ3xUUpFQ_VA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "459435392019-sals59g490p0bdbkfcdgli0fcscial8u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

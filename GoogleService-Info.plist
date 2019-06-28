@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>459435392019-hovsbum3a54kf2fqchfie900qdrck9lu.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.459435392019-hovsbum3a54kf2fqchfie900qdrck9lu</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>459435392019-rc14lsurjsan0ndalfe6sumqkdna5cqo.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCy6k9_WCKV-EAy8FjeIs5AdDuWmEuyDOA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>459435392019</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.Bytecoders.startup</string>
+	<key>PROJECT_ID</key>
+	<string>wechat-2b611</string>
+	<key>STORAGE_BUCKET</key>
+	<string>wechat-2b611.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:459435392019:ios:8bd2686abe4ea0ef</string>
+	<key>DATABASE_URL</key>
+	<string>https://wechat-2b611.firebaseio.com</string>
+</dict>
+</plist>
